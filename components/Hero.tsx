@@ -15,7 +15,7 @@ export function HeroBackgroundLinesDemo() {
       </p>
     
       <h1 className="text-2xl md:text-5xl lg:text-7xl font-bold text-center text-white relative z-2 font-sans">
-        I am the <ColourfulText text="Full-Stack Developer" /> <br /> you will ever find
+        I am a <ColourfulText text="Full-Stack Web App And Android developer" /> <br /> you will ever find
       </h1>
   
       <NavbarDemo />
